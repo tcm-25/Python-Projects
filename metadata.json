@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Python Calculator",
+  "description": "A web-based calculator that uses the Gemini API to generate and evaluate Python code for mathematical expressions. Enter an expression, and see the corresponding Python code and the calculated result.",
+  "requestFramePermissions": []
+}
